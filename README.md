@@ -4,7 +4,7 @@ This is a back-end capstone project called BookMyShow that was provided by Almab
 
 ## Deployment :-
 
-To view my BookMyShow website, visit this link :- 
+To view my BookMyShow website, visit this link :- https://bookmyshow-khapse-60550c.netlify.app/
 
 ## Description :-
 
@@ -14,14 +14,13 @@ The user-booked movie will be retrieved and displayed to them after being saved 
 
 ## Technologies Used :-
 
-#### React  
+React:-  
     This app is fully built on top of react library.
-#### Axios 
+Axios :- 
     Used for making api calls.
-### Express.
-   
-    To Create Server.
-### MongoDB.
+Express:-
+   To Create Server.
+MongoDB:-
 
     To store and retrive the data of the user.
 
