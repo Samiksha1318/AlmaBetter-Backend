@@ -16,13 +16,15 @@ The user-booked movie will be retrieved and displayed to them after being saved 
 
 React:-  
     This app is fully built on top of react library.
+
 Axios :- 
     Used for making api calls.
+
 Express:-
    To Create Server.
-MongoDB:-
 
-    To store and retrive the data of the user.
+MongoDB:-
+  To store and retrive the data of the user.
 
 ## Contributing :-
 
